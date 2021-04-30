@@ -14,4 +14,4 @@ I have provided three types already:
 The CompositeMorse type implements the GoF Composite pattern allowing multiple Morse types to be added. at once.
 
 Connecting a buzzer to pin 8 of the Arduino board...
-![Fritzing Image](https://github.com/PaulKnauer/ArduinoMorseEncoder/blob/master/ArduinoMorseEncoder.png "Connecting the buzzer")
+![Fritzing Image](ArduinoMorseEncoder.png "Connecting the buzzer")
